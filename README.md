@@ -1,3 +1,3 @@
 # resume
 
-Deploy: [https://dniwe08.github.io/resume/cv.html]: https://dniwe08.github.io/resume/cv.html
+Deploy: https://dniwe08.github.io/resume/cv.html
